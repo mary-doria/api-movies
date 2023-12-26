@@ -1,0 +1,22 @@
+{
+  "name": "api-movies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mary-doria/api-movies.git"
+  },
+  "author": "@mary.doria",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mary-doria/api-movies/issues"
+  },
+  "homepage": "https://github.com/mary-doria/api-movies#readme"
+  
+  
+}
+
